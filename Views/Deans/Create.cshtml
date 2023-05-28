@@ -1,0 +1,56 @@
+﻿@model Faculty_Portal.Models.Dean
+
+@{
+    ViewData["Title"] = "Create";
+}
+<h4>Add Dean</h4>
+<hr />
+<div class="grid grid-cols-1">
+    <div class="col-span-1 mx-auto">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label><br/>
+                <input asp-for="Name" class="border rounded-md w-full h-12 p-2" placeholder="Prof. John Doe" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label><br />
+                <input asp-for="Email" class="border rounded-md w-full h-12 p-2" placeholder="john.doe@edouniversity.edu.ng" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message" class="control-label"></label>
+                <textarea asp-for="Message" class="border rounded-md w-full h-28 p-2"></textarea>
+                <span asp-validation-for="Message" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Picture" class="control-label"></label>
+                <input asp-for="Picture" class="border rounded-md w-full h-12" type="file" name="img" />
+                <span asp-validation-for="Picture" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ResumedOn" class="control-label">Date of Assumption</label>
+                <input asp-for="ResumedOn" class="border rounded-md w-full h-12 p-2" />
+                <span asp-validation-for="ResumedOn" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 mt-1 px-4 rounded w-full" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

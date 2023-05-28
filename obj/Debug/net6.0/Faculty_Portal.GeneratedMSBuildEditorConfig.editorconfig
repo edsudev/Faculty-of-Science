@@ -1,0 +1,176 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Faculty_Portal
+build_property.RootNamespace = Faculty_Portal
+build_property.ProjectDir = C:\Users\SANNI PHATAII\Desktop\EDSU-Project\Faculty_Portal\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SANNI PHATAII\Desktop\EDSU-Project\Faculty_Portal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Deans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Deans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Deans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Deans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Deans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/DepartmentStaffs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFN0YWZmc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/DepartmentStaffs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFN0YWZmc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/DepartmentStaffs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFN0YWZmc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/DepartmentStaffs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFN0YWZmc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/DepartmentStaffs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFN0YWZmc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Departments/portal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNccG9ydGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/FacultyStaffs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eVN0YWZmc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/FacultyStaffs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eVN0YWZmc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/FacultyStaffs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eVN0YWZmc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/FacultyStaffs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eVN0YWZmc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/FacultyStaffs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0eVN0YWZmc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/HODs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9Ec1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/HODs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9Ec1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/HODs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9Ec1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/HODs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9Ec1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/HODs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9Ec1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SANNI PHATAII/Desktop/EDSU-Project/Faculty_Portal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cf373ymljq

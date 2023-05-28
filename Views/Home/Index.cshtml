@@ -1,0 +1,176 @@
+﻿@model VM
+@{
+    ViewData["Title"] = "HOME";
+}
+<!--Container-->
+	<div class="mx-28 mt-28 pt-20">
+	<div class="grid grid-cols-5">
+		<div class="col-span-3">
+			<div class="w-full px-42 md:px-2 text-xl text-gray-800 leading-normal" style="font-family:Georgia,serif;">
+				<!--Title-->
+				<div class="font-sans">
+					<h1 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl">Welcome message</h1>
+					<p class="text-sm md:text-base font-normal text-gray-600">By Dean, Faculty of Science</p>
+				</div>
+				@foreach (Dean dean in Model.Deans)
+				{
+					@if (dean.IsActive == true)
+					{
+						<p>@dean.Message</p>
+					}
+				}
+				
+				@*<blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Example of blockquote - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.</blockquote>*@
+
+				
+			<!--/ Post Content-->
+
+			</div>
+		</div>
+		<div class="col-span-2">
+			<div class="shadow-xl w-fit h-full">
+				@foreach (Dean dean in Model.Deans)
+				{
+					@if (dean.IsActive == true)
+					{
+						var image = "/dean/" + dean.Picture;
+						<img src="@image" class="mt-5 mx-auto" width="150" style="max-height:80%" />
+						<p class="text-center">@dean.Name</p>
+						<p class="text-center">Dean</p>
+					}
+				}
+                
+				
+			</div>
+		</div>
+	</div>
+	<p class="py-6">Faculty Staffs:</p>
+	<div class="grid grid-cols-3 mx-8 my-8">
+		
+		@foreach (FacultyStaff f in Model.FacultyStaffs)
+		{
+			@if (f.IsActive == true)
+			{
+				var image = "/facultystaff/" + f.Picture;
+				<div class="col-span-1 shadow-xl mx-10 h-full">
+					<img src="@image" class="mt-5 mx-auto" width="150" style="max-height:80%" />
+					<p class="text-center font-bold">@f.Name</p>
+					<p class="text-center italic">@f.Position</p>
+				</div>
+			}
+		}
+	</div>
+	<div>
+		<!--HOD-->
+		<p class="py-6">Head(s) of Department(s):</p>
+		@foreach (HOD hod in Model.HODs)
+		{
+			@if (hod.IsActive == true)
+			{
+				var image = "/hod/" + hod.Picture;
+				<div class="flex w-full items-center font-sans px-4 pt-8">
+					<img class="w-10 h-10 rounded-full mr-4" src="@image" alt="Avatar of hod">
+					<div class="flex-1 px-2">
+						<p class="text-base font-bold text-base md:text-xl leading-none mb-2">@hod.Name</p>
+						<p class="text-gray-600 text-xs md:text-base">Ag. HOD  <a class="text-green-500 no-underline hover:underline" asp-action="portal" asp-controller="departments" asp-route-id="@hod.Departments.Name">@hod.Departments.Name</a></p>
+					</div>
+					<div class="justify-end">
+						<button class="bg-transparent border border-gray-500 hover:border-green-500 text-xs text-gray-500 hover:text-green-500 font-bold py-2 px-4 rounded-full">Details</button>
+					</div>
+				</div>
+			}
+		}
+		<!--/HOD-->
+	</div>
+	<div>
+		<p class="py-6">List of Past Deans:</p>
+		<pre class="bg-gray-900 rounded text-white font-mono text-base p-2 md:p-4">
+			@foreach (Dean dean in Model.Deans)
+			{
+				@if (dean.IsActive == false)
+				{
+					<span>
+						@dean.Name
+							- From: @dean.CreatedAt.ToShortDateString() - To: @dean.UpdatedAt.ToShortDateString()
+					</span>
+				}
+			}
+		</pre>
+		
+	</div>
+
+		<!--Divider-->
+		<hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+
+		<!--Subscribe-->
+		<div class="container px-4">
+			<div class="font-sans bg-gradient-to-b from-green-100 to-gray-100 rounded-lg shadow-xl p-4 text-center">
+				<h2 class="font-bold break-normal text-xl md:text-3xl">Subscribe to our Newsletter</h2>
+				<h3 class="font-bold break-normal text-gray-600 text-sm md:text-base">Get the latest news delivered right to your inbox</h3>
+				<div class="w-full text-center pt-4">
+					<form action="#">
+						<div class="max-w-xl mx-auto p-1 pr-0 flex flex-wrap items-center">
+							<input type="email" placeholder="youremail@example.com" class="flex-1 mt-4 appearance-none border border-gray-400 rounded shadow-md p-3 text-gray-600 mr-2 focus:outline-none">
+							<button type="submit" class="flex-1 mt-4 block md:inline-block appearance-none bg-green-500 text-white text-base font-semibold tracking-wider uppercase py-4 rounded shadow hover:bg-green-400">Subscribe</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<!-- /Subscribe-->
+
+
+
+		
+
+		<!--Divider-->
+		<hr class="border-b-2 border-gray-400 mb-8 mx-4">
+	</div>
+	<!--/container-->
+
+	
+
+	<script>
+		/* Progress bar */
+		//Source: https://alligator.io/js/progress-bar-javascript-css-variables/
+		var h = document.documentElement,
+			b = document.body,
+			st = 'scrollTop',
+			sh = 'scrollHeight',
+			progress = document.querySelector('#progress'),
+			scroll;
+		var scrollpos = window.scrollY;
+		var header = document.getElementById("header");
+		var navcontent = document.getElementById("nav-content");
+
+		document.addEventListener('scroll', function() {
+
+			/*Refresh scroll % width*/
+			scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight) * 100;
+			progress.style.setProperty('--scroll', scroll + '%');
+
+			/*Apply classes for slide in bar*/
+			scrollpos = window.scrollY;
+
+			if (scrollpos > 10) {
+				header.classList.add("bg-white");
+				header.classList.add("shadow");
+				navcontent.classList.remove("bg-gray-100");
+				navcontent.classList.add("bg-white");
+			} else {
+				header.classList.remove("bg-white");
+				header.classList.remove("shadow");
+				navcontent.classList.remove("bg-white");
+				navcontent.classList.add("bg-gray-100");
+
+			}
+
+		});
+
+
+		//Javascript to toggle the menu
+		document.getElementById('nav-toggle').onclick = function() {
+			document.getElementById("nav-content").classList.toggle("hidden");
+		}
+	</script>
