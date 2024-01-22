@@ -1,4 +1,5 @@
-﻿@model VM
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,14 +11,14 @@
 </head>
 <body class ="bg-gray-100 font-sans leading-normal tracking-normal">
     <header>
-        <nav id="header" class="fixed w-full z-10 top-0">
+       <nav id="header" class="fixed w-full z-10 top-0">
 
             <div id="progress" class="h-1 z-20 top-0" style="background:linear-gradient(to right, #4dc0b5 var(--scroll), transparent 0);"></div>
 
             <div class="w-full md:max-w-4xl mx-auto flex flex-wrap items-center justify-between mt-0 py-3">
 
                 <div class="pl-4">
-                    <a class="text-gray-900 text-base no-underline hover:no-underline font-extrabold text-xl" href="#">
+                    <a class="text-gray-900 text-base no-underline hover:no-underline font-extrabold text-xl" asp-action="index" asp-controller="home">
                         FACULTY OF SCIENCE
                     </a>
                 </div>
@@ -34,35 +35,57 @@
                 <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden lg:block mt-2 lg:mt-0 bg-gray-100 md:bg-transparent z-20" id="nav-content">
                     <ul class="list-reset lg:flex justify-end flex-1 items-center">
                         <li class="mr-3">
-                            <a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" asp-controller="Home" asp-action="Privacy">Home</a>
+                            <a class="inline-block py-2 px-4 text-gray-700 font-bold no-underline" asp-controller="home" asp-action="index">Home</a>
                         </li>
                         <li class="mr-3">
-                            <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" asp-controller="Home" asp-action="Privacy">
+                            <a class="inline-block text-gray-700 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" asp-controller="Home" asp-action="Privacy">
                                 Journal
                             </a>
                         </li>
-                        <li class="mr-3 relative">
-                            <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="#">
+                        <li class="mr-3">
+                            <a class="inline-block text-gray-700 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" asp-controller="home" asp-action="departments">
                                 Departments
                             </a>
-                            <ul class="absolute hidden bg-white border border-gray-300 mt-2 w-40">
-                                @foreach (Department department in Model.Departments)
-                                {
-                                    <li>
-                                        <a class="block px-4 py-2 text-gray-800 hover:bg-gray-200" href="#">
-                                            @department.Name
-                                        </a>
-                                    </li>
-                                }
-                            </ul>
                         </li>
-
                         <li class="mr-3">
-                            <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" asp-controller="Home" asp-action="Privacy">
+                            <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" asp-controller="home" asp-action="newsletter">
                                 Newsletter
                             </a>
                         </li>
-                        <li class="mr-3">
+                        @if (SignInManager.IsSignedIn(User))
+                        {
+                        <li>
+                            <button id="dropdownNavbarLink" data-dropdown-toggle="dropdownNavbar" class="text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 pl-3 pr-4 py-2 md:hover:text-blue-700 md:p-0 font-medium flex items-center justify-between w-full md:w-auto">Manage Portal <svg class="w-4 h-4 ml-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg></button>
+                            <!-- Dropdown menu -->
+                            <div id="dropdownNavbar" class="hidden bg-white text-base z-10 list-none divide-y divide-gray-100 rounded shadow my-4 w-44">
+                                <ul class="py-1" aria-labelledby="dropdownLargeButton">
+                                    <li>
+                                        <a asp-action="index" asp-controller="deans" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Dean</a>
+                                    </li>
+                                    <li>
+                                        <a asp-action="index" asp-controller="hods" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">HODs</a>
+                                    </li>
+                                    <li>
+                                        <a asp-action="index" asp-controller="facultystaffs" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Faculty Staff</a>
+                                    </li>
+                                    <li>
+                                        <a asp-action="index" asp-controller="departmentalstaffs" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Departmental Staff</a>
+                                    </li>
+                                    <li>
+                                        <a asp-action="index" asp-controller="departments" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Departments</a>
+                                    </li>
+                                    <li>
+                                        <a asp-action ="index" asp-controller="Newsletters" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Newsletter</a>
+                                    </li>
+                                </ul>
+                            <div class="py-1">
+                                    <a asp-action="index" asp-controller="subscriptions" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Subscriptions</a>
+                                </div>
+                            </div>
+                        </li>
+                        }
+                       
+                        <li class="">
                             <partial name="_LoginPartial" />
                         </li>
                     </ul>
@@ -76,7 +99,7 @@
         </main>
     </div>
 
-    <footer class="bg-white border-t border-gray-400 shadow">
+    <footer class="w-full bg-white border-t border-gray-400 shadow">
         <div class="container max-w-7xl mx-auto flex py-8">
 
             <div class="w-full mx-auto flex flex-wrap">
@@ -112,6 +135,7 @@
             &copy; @DateTime.Now.Year - EDSU ICT UNIT - <a asp-area="" asp-controller="Home" asp-action="Privacy">Faculty of Science</a>
         </div>
     </footer>
+    <script src="https://unpkg.com/&#64;themesberg/flowbite@1.1.1/dist/flowbite.bundle.js"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

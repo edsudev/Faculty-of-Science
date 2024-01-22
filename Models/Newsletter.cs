@@ -6,6 +6,7 @@ namespace Faculty_Portal.Models
         public int Id { get; set; }
         public string? News { get; set; }
         public string? Topic { get; set; }
+        public string? Slug { get; set; }
         public string? Picture { get; set; }
         [ForeignKey("Departments")]
         public int DepartmentId { get; set; }

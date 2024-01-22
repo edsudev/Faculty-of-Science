@@ -38,10 +38,10 @@ namespace Faculty_Portal.Controllers
             }
 
             var department = await _context.Departments
-                .FirstOrDefaultAsync(m => m.Name == id);
-            ViewBag.DptName = department.Name;
-            ViewBag.DptInfo = department.Info;
-            ViewBag.DptPic = department.Picture;
+                .FirstOrDefaultAsync(m => m.Slug == id);
+            ViewBag.DptName = department?.Name;
+            ViewBag.DptInfo = department?.Info;
+            ViewBag.DptPic = department?.Picture;
 
             if (department == null)
             {
@@ -75,29 +75,30 @@ namespace Faculty_Portal.Controllers
         public async Task<IActionResult> Create(IFormFile img, Department department)
         {
            
-                if (img != null && img.Length > 0)
+            if (img != null && img.Length > 0)
+            {
+                var uploadDir = @"department";
+                var fileName = Path.GetFileNameWithoutExtension(img.FileName);
+                var extension = Path.GetExtension(img.FileName);
+                var webRootPath = _hostingEnvironment.WebRootPath;
+                fileName = department.ShortCode + extension;
+                var path = Path.Combine(webRootPath, uploadDir, fileName);
+                using (FileStream fs = new FileStream(path, FileMode.Append, FileAccess.Write))
                 {
-                    var uploadDir = @"department";
-                    var fileName = Path.GetFileNameWithoutExtension(img.FileName);
-                    var extension = Path.GetExtension(img.FileName);
-                    var webRootPath = _hostingEnvironment.WebRootPath;
-                    fileName = department.ShortCode + extension;
-                    var path = Path.Combine(webRootPath, uploadDir, fileName);
-                    using (FileStream fs = new FileStream(path, FileMode.Append, FileAccess.Write))
+                    img.CopyTo(fs);
+                    department.Picture = fileName;
+                    if (fs != null)
                     {
-                        img.CopyTo(fs);
-                        department.Picture = fileName;
-                        if (fs != null)
-                        {
-                            fs.Close();
-                            fs.Dispose();
-                        }
+                        fs.Close();
+                        fs.Dispose();
                     }
-
                 }
-                _context.Add(department);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+
+            }
+            department.Slug = department.Name?.Replace(" ", "_");
+            _context.Add(department);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
             
         }
 

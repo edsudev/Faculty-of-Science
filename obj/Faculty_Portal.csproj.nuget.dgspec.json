@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\Faculty_Portal.csproj": {}
+    "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\Faculty_Portal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\Faculty_Portal.csproj": {
+    "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\Faculty_Portal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\Faculty_Portal.csproj",
+        "projectUniqueName": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\Faculty_Portal.csproj",
         "projectName": "Faculty_Portal",
-        "projectPath": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\Faculty_Portal.csproj",
+        "projectPath": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\Faculty_Portal.csproj",
         "packagesPath": "C:\\Users\\SANNI PHATAII\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\obj\\",
+        "outputPath": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SANNI PHATAII\\AppData\\Roaming\\NuGet\\NuGet.Config",

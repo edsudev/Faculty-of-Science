@@ -7,5 +7,6 @@
         public List<FacultyStaff>? FacultyStaffs { get; set; }
         public List<DepartmentStaff>? DepartmentStaffs { get; set; }
         public List<Department>? Departments { get; set; }
+        public Subscription? Subscriptions { get; set; }
     }
 }

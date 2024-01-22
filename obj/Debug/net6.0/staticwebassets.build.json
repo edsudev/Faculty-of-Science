@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "02zr448I+ufCeVLN4ZyEEdq2tNC8Jtplvt696/KgGOo=",
+  "Hash": "u23ydkMQq4hp5XXE0avXkIefM3R0U9PFKik8livyD90=",
   "Source": "Faculty_Portal",
   "BasePath": "_content/Faculty_Portal",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Faculty_Portal\\wwwroot",
       "Source": "Faculty_Portal",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\SANNI PHATAII\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Faculty_Portal.styles.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Faculty_Portal.styles.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "Faculty_Portal.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Faculty_Portal.styles.css"
+      "OriginalItemSpec": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Faculty_Portal.styles.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Faculty_Portal.bundle.scp.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Faculty_Portal.bundle.scp.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "Faculty_Portal.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Faculty_Portal.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Faculty_Portal.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\css\\output.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\css\\output.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "css/output.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\output.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\css\\site.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\dean\\charles.adetunji@edouniversity.edu.ng.jpg",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\charles.adetunji@edouniversity.edu.ng.jpg",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "dean/charles.adetunji@edouniversity.edu.ng.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\dean\\charles.adetunji@edouniversity.edu.ng.jpg"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\dean\\charles.adetunji@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\charles.adetunji@edouniversity.edu.ng.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "dean/charles.adetunji@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\dean\\charles.adetunji@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\dean\\CSC.jpg",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\CSC.jpg",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "dean/CSC.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\dean\\CSC.jpg"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\dean\\DR_ADETUNJI_CHARLES_OLUWASEUN1.jpg",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\DR_ADETUNJI_CHARLES_OLUWASEUN1.jpg",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "dean/DR_ADETUNJI_CHARLES_OLUWASEUN1.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\dean\\DR_ADETUNJI_CHARLES_OLUWASEUN1.jpg"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\dean\\maliki.munirat@edounversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\maliki.munirat@edounversity.edu.ng.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "dean/maliki.munirat@edounversity.edu.ng.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\dean\\maliki.munirat@edounversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\dean\\nwakwo.wilson@edouniversity.edu.ng.jpg",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\nwakwo.wilson@edouniversity.edu.ng.jpg",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "dean/nwakwo.wilson@edouniversity.edu.ng.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\dean\\nwakwo.wilson@edouniversity.edu.ng.jpg"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\dean\\nwakwo.wilson@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\nwakwo.wilson@edouniversity.edu.ng.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "dean/nwakwo.wilson@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1224,10 +1224,27 @@
       "OriginalItemSpec": "wwwroot\\dean\\nwakwo.wilson@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\department\\CSC.jpg",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\dean\\phataiic137@getnada.com.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
+      "BasePath": "_content/Faculty_Portal",
+      "RelativePath": "dean/phataiic137@getnada.com.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dean\\phataiic137@getnada.com.png"
+    },
+    {
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\department\\CSC.jpg",
+      "SourceId": "Faculty_Portal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "department/CSC.jpg",
       "AssetKind": "All",
@@ -1241,10 +1258,27 @@
       "OriginalItemSpec": "wwwroot\\department\\CSC.jpg"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\department\\MCB.jpg",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\department\\CSC.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
+      "BasePath": "_content/Faculty_Portal",
+      "RelativePath": "department/CSC.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\department\\CSC.png"
+    },
+    {
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\department\\MCB.jpg",
+      "SourceId": "Faculty_Portal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "department/MCB.jpg",
       "AssetKind": "All",
@@ -1258,10 +1292,44 @@
       "OriginalItemSpec": "wwwroot\\department\\MCB.jpg"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\facultystaff\\fatai.sanni@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\department\\MCB.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
+      "BasePath": "_content/Faculty_Portal",
+      "RelativePath": "department/MCB.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\department\\MCB.png"
+    },
+    {
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\department\\PHY.png",
+      "SourceId": "Faculty_Portal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
+      "BasePath": "_content/Faculty_Portal",
+      "RelativePath": "department/PHY.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\department\\PHY.png"
+    },
+    {
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\facultystaff\\fatai.sanni@edouniversity.edu.ng.png",
+      "SourceId": "Faculty_Portal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "facultystaff/fatai.sanni@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1275,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\facultystaff\\fatai.sanni@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\facultystaff\\morty.smith@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\facultystaff\\morty.smith@edouniversity.edu.ng.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "facultystaff/morty.smith@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1292,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\facultystaff\\morty.smith@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\facultystaff\\rick.sanchez@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\facultystaff\\rick.sanchez@edouniversity.edu.ng.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "facultystaff/rick.sanchez@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1309,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\facultystaff\\rick.sanchez@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\favicon.ico",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1326,10 +1394,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\hod\\israel.siloko@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\hod\\esanni5@gmail.com.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
+      "BasePath": "_content/Faculty_Portal",
+      "RelativePath": "hod/esanni5@gmail.com.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hod\\esanni5@gmail.com.png"
+    },
+    {
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\hod\\israel.siloko@edouniversity.edu.ng.png",
+      "SourceId": "Faculty_Portal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "hod/israel.siloko@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1343,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\hod\\israel.siloko@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\hod\\john.doe@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\hod\\john.doe@edouniversity.edu.ng.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "hod/john.doe@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1360,10 +1445,27 @@
       "OriginalItemSpec": "wwwroot\\hod\\john.doe@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\hod\\samuel.omaji@edouniversity.edu.ng.png",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\hod\\kingsley.kizo@edouniversity.edu.ng.png",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
+      "BasePath": "_content/Faculty_Portal",
+      "RelativePath": "hod/kingsley.kizo@edouniversity.edu.ng.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hod\\kingsley.kizo@edouniversity.edu.ng.png"
+    },
+    {
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\hod\\samuel.omaji@edouniversity.edu.ng.png",
+      "SourceId": "Faculty_Portal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "hod/samuel.omaji@edouniversity.edu.ng.png",
       "AssetKind": "All",
@@ -1377,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\hod\\samuel.omaji@edouniversity.edu.ng.png"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\js\\site.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1394,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1411,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1428,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1445,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1479,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1496,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1513,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1547,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1564,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1581,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1615,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1649,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1683,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1700,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1717,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1751,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1768,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1785,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1819,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1836,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1853,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1887,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1904,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1921,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1955,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1972,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1989,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2006,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2023,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2040,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2057,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2074,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2091,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2108,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2125,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2142,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2159,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2176,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2193,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2210,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2227,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2244,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2261,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2278,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2295,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2312,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2329,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2346,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Faculty_Portal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\wwwroot\\",
       "BasePath": "_content/Faculty_Portal",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

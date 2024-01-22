@@ -15,5 +15,6 @@ namespace Faculty_Portal.Data
         public DbSet<Faculty_Portal.Models.FacultyStaff>? FacultyStaffs { get; set; }
         public DbSet<Faculty_Portal.Models.DepartmentStaff>? DepartmentStaff { get; set; }
         public DbSet<Faculty_Portal.Models.Newsletter>? Newsletters { get; set; }
+        public DbSet<Faculty_Portal.Models.Subscription>? Subscriptions { get; set; }
     }
 }

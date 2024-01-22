@@ -28,7 +28,7 @@ namespace Faculty_Portal.Controllers
         }
 
         // GET: HODs/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Profile(string? id)
         {
             if (id == null || _context.Hods == null)
             {
@@ -37,7 +37,7 @@ namespace Faculty_Portal.Controllers
 
             var hOD = await _context.Hods
                 .Include(h => h.Departments)
-                .FirstOrDefaultAsync(m => m.Id == id);
+                .FirstOrDefaultAsync(m => m.Email == id);
             if (hOD == null)
             {
                 return NotFound();

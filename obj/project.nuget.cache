@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TY4tPBPHBi0LJ20dTH1bmYOCNsDhTxhlpjRU58Q73rkBo1vvZ8RZEtzmSzkH/1rAVoeAUzCrjIhusdBv3EM84g==",
+  "dgSpecHash": "a9dUh3NKZnQIQ8Nde1lGjEYLOghqUYJONrGVN1XBjWVB+LDfBJGdukKs57tX2YZikFeoPtlGJI4UlqxSzUGg2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal\\Faculty_Portal.csproj",
+  "projectFilePath": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\Faculty_Portal-FSC\\Faculty_Portal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SANNI PHATAII\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SANNI PHATAII\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

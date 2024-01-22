@@ -49,6 +49,12 @@ namespace Faculty_Portal.Data.Migrations
                     b.Property<DateTime>("ResumedOn")
                         .HasColumnType("datetime(6)");
 
+                    b.Property<string>("Slug")
+                        .HasColumnType("longtext");
+
+                    b.Property<int?>("Type")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime(6)");
 
@@ -62,6 +68,9 @@ namespace Faculty_Portal.Data.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime(6)");
 
                     b.Property<string>("Info")
                         .HasColumnType("longtext");
@@ -77,6 +86,12 @@ namespace Faculty_Portal.Data.Migrations
 
                     b.Property<string>("ShortCode")
                         .HasColumnType("longtext");
+
+                    b.Property<string>("Slug")
+                        .HasColumnType("longtext");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
 
@@ -119,6 +134,9 @@ namespace Faculty_Portal.Data.Migrations
                     b.Property<string>("ORCID")
                         .HasColumnType("longtext");
 
+                    b.Property<string>("Phone")
+                        .HasColumnType("longtext");
+
                     b.Property<string>("Picture")
                         .HasColumnType("longtext");
 
@@ -135,6 +153,9 @@ namespace Faculty_Portal.Data.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<string>("Scopus")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Slug")
                         .HasColumnType("longtext");
 
                     b.Property<int?>("Type")
@@ -168,10 +189,16 @@ namespace Faculty_Portal.Data.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("longtext");
 
+                    b.Property<string>("Phone")
+                        .HasColumnType("longtext");
+
                     b.Property<string>("Picture")
                         .HasColumnType("longtext");
 
                     b.Property<string>("Position")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Slug")
                         .HasColumnType("longtext");
 
                     b.Property<DateTime>("UpdatedAt")
@@ -215,6 +242,12 @@ namespace Faculty_Portal.Data.Migrations
                     b.Property<DateTime>("ResumedOn")
                         .HasColumnType("datetime(6)");
 
+                    b.Property<string>("Slug")
+                        .HasColumnType("longtext");
+
+                    b.Property<int?>("Type")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime(6)");
 
@@ -246,6 +279,9 @@ namespace Faculty_Portal.Data.Migrations
                     b.Property<string>("Picture")
                         .HasColumnType("longtext");
 
+                    b.Property<string>("Slug")
+                        .HasColumnType("longtext");
+
                     b.Property<string>("Topic")
                         .HasColumnType("longtext");
 
@@ -257,6 +293,23 @@ namespace Faculty_Portal.Data.Migrations
                     b.HasIndex("DepartmentId");
 
                     b.ToTable("Newsletters");
+                });
+
+            modelBuilder.Entity("Faculty_Portal.Models.Subscription", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<string>("Email")
+                        .HasColumnType("longtext");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Subscriptions");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

@@ -8,5 +8,8 @@
         public bool IsActive { get; set; }
         public string? Info { get; set; }
         public string? Picture { get; set; }
+        public string? Slug { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime UpdatedAt { get; set; }
     }
 }

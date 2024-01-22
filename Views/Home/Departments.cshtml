@@ -1,0 +1,28 @@
+﻿
+@model IEnumerable<Faculty_Portal.Models.Department>
+
+@{
+    ViewData["Title"] = "Departments - ";
+}
+
+<div class="mx-8 md:mx-28 md:mt-28 pt-20">
+    <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 list-none">
+        @foreach (var item in Model)
+        {
+            <a  asp-action="portal" asp-controller="departments" asp-route-id="@item.Slug" target="_blank">
+                <li class="bg-white p-4 rounded-md shadow-md mb-4">
+                    <p class="text-sm font-semibold">@item.ShortCode</p>
+                    <p class="text-xs">@item.Name</p>
+
+                    <!-- Add similar code for other properties -->
+                </li>
+            </a>
+        }
+    </ul>
+		<!--Divider-->
+		<hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+	</div>
+	<!--/container-->
+
+

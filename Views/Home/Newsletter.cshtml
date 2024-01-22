@@ -1,0 +1,77 @@
+﻿@model Faculty_Portal.Models.Subscription
+@{
+    ViewData["Title"] = "Newsletter";
+}
+
+<div class="mx-8 md:mx-28 md:mt-28 pt-20">
+	<h4>@ViewData["Title"]</h4>
+
+	<p>This page contains all the news about faculty of science.</p>
+
+	<!--Subscribe-->
+	<div class="container px-4">
+		<div class="font-sans bg-gradient-to-b from-green-100 to-gray-100 rounded-lg shadow-xl p-4 text-center">
+			<h2 class="font-bold break-normal text-xl md:text-3xl">Subscribe to our Newsletter</h2>
+			<h3 class="font-bold break-normal text-gray-600 text-sm md:text-base">Get the latest news delivered right to your inbox</h3>
+			<div class="w-full text-center pt-4">
+				<form asp-action="Newsletter">
+					<div class="max-w-xl mx-auto p-1 pr-0 flex flex-wrap items-center">
+						<input asp-for="Email" type="email" placeholder="youremail@example.com" class="flex-1 mt-4 appearance-none border border-gray-400 rounded shadow-md p-3 text-gray-600 mr-2 focus:outline-none">
+						<button type="submit" class="flex-1 mt-4 block md:inline-block appearance-none bg-green-500 text-white text-base font-semibold tracking-wider uppercase py-4 rounded shadow hover:bg-green-400">Subscribe</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- /Subscribe-->
+	<!--Divider-->
+	<hr class="border-b-2 border-gray-400 mb-8 mx-4">
+</div>
+<!--/container-->
+
+
+
+<script>
+	/* Progress bar */
+	//Source: https://alligator.io/js/progress-bar-javascript-css-variables/
+	var h = document.documentElement,
+		b = document.body,
+		st = 'scrollTop',
+		sh = 'scrollHeight',
+		progress = document.querySelector('#progress'),
+		scroll;
+	var scrollpos = window.scrollY;
+	var header = document.getElementById("header");
+	var navcontent = document.getElementById("nav-content");
+
+	document.addEventListener('scroll', function () {
+
+		/*Refresh scroll % width*/
+		scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight) * 100;
+		progress.style.setProperty('--scroll', scroll + '%');
+
+		/*Apply classes for slide in bar*/
+		scrollpos = window.scrollY;
+
+		if (scrollpos > 10) {
+			header.classList.add("bg-white");
+			header.classList.add("shadow");
+			navcontent.classList.remove("bg-gray-100");
+			navcontent.classList.add("bg-white");
+		} else {
+			header.classList.remove("bg-white");
+			header.classList.remove("shadow");
+			navcontent.classList.remove("bg-white");
+			navcontent.classList.add("bg-gray-100");
+
+		}
+
+	});
+
+
+	//Javascript to toggle the menu
+	document.getElementById('nav-toggle').onclick = function () {
+		document.getElementById("nav-content").classList.toggle("hidden");
+	}
+</script>
+

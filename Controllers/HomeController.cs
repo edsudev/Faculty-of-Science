@@ -21,25 +21,59 @@ namespace Faculty_Portal.Controllers
         {
             var dean = new List<Dean>(_context.Deans.ToList());
             var hod = new List<HOD>(_context.Hods.Include(h => h.Departments).ToList());
-            //var departmentStaff = new List<DepartmentStaff>(_context.DepartmentStaff.Include(h => h.Departments).ToList());
             var facultyStaff = new List<FacultyStaff>(_context.FacultyStaffs.ToList());
             var department = new List<Department>();
 
             VM mymodel = new VM();
             mymodel.Deans = dean;
             mymodel.HODs = hod;
-            //mymodel.DepartmentStaffs = departmentStaff;
             mymodel.FacultyStaffs = facultyStaff;
             mymodel.Departments = department;
 
             return View(mymodel);
         }
 
-        public IActionResult Privacy()
+        public IActionResult Newsletter()
         {
             return View();
         }
+        public IActionResult Departments()
+        {
+            var dpts = (from s in _context.Departments select s).ToList();
+            return View(dpts);
+        }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Newsletter(Subscription sub)
+        {
+            var emailExist = _context.Subscriptions.Where(x => x.Email == sub.Email).Select(x => x.Email).FirstOrDefault();
+            if (emailExist != null)
+            {
+                try
+                {
+                    _context.Add(sub);
+                    await _context.SaveChangesAsync();
+                    TempData["success"] = "An error occured while trying to process your " +
+                                      "request. Kindly contact the ICT if problem persist.";
+                    return RedirectToAction(nameof(Index));
+                }
+                catch (Exception)
+                {
+                    TempData["error"] = "An error occured while trying to process your " +
+                                        "request. Kindly contact the ICT if problem persist.";
+                    throw;
+                }
+
+            }
+            else
+            {
+                TempData["emailExist"] = "It seems the email address you provided already exists.";
+                return RedirectToAction(nameof(Index));
+            }
+            
+            
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

@@ -1,4 +1,5 @@
 ﻿@model Faculty_Portal.Models.Dean
+@using static Faculty_Portal.Models.Enum
 
 @{
     ViewData["Title"] = "Create";
@@ -9,6 +10,10 @@
     <div class="col-span-1 mx-auto">
         <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Type" class="control-label">Position</label>
+                <select asp-for="Type" class="border rounded-md w-full h-12 p-2" asp-items="Html.GetEnumSelectList<DeanType>()"></select>
+            </div>
             <div class="form-group">
                 <label asp-for="Name" class="control-label"></label><br/>
                 <input asp-for="Name" class="border rounded-md w-full h-12 p-2" placeholder="Prof. John Doe" />

@@ -8,9 +8,11 @@ namespace Faculty_Portal.Models
         public int Id { get; set; }
         public TypeOfStaff? Type { get; set; }
         public string? Name { get; set; }
+        public string? Phone { get; set; }
         public string? Picture { get; set; }
         public string? ResearchArea { get; set; }
         public string? Education { get; set; }
+        public string? Slug { get; set; }
         public string? Position { get; set; }
         [ForeignKey("Departments")]
         public int DepartmentId { get; set; }
